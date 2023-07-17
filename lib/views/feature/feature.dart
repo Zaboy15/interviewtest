@@ -126,7 +126,7 @@ class _FeaturePageState extends State<FeaturePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Text"),
+        title: Text("Home"),
         backgroundColor: cPrimary,
       ),
       body: SingleChildScrollView(
